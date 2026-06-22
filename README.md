@@ -1,0 +1,8 @@
+- 👋 Hi, I'm Alessandro
+- 🏗️ Building AI products at London Business School
+- 🎓 MSc Analytics & Management, London Business School (2026), Student of the Year
+- 🚀 Shipped: Scriva (AI RFP automation, live at LBS), Jimmy (autonomous student agent), Legacy Atlas (AI codebase tool)
+- 🧠 Interested in: Forward Deployed AI, agentic systems, and enterprise AI
+- 🎾 Tennis and ⚽ football fan, and into running 🏃
+- 🌍 Based in London · Italian 🇮🇹 Dutch 🇳🇱
+- 📫 Reach me on LinkedIn or at acondorelli.mam2026@london.edu
