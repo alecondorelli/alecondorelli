@@ -1,5 +1,4 @@
 - 👋 Hi, I'm Alessandro
 - 🏗️ Building AI tools for London Business School
 - 🎓 MSc Analytics & Management, London Business School (2026), Recipient of Student of the Year Award
-- 🎾 Tennis and ⚽ football fan, fitness freak 🏋️
 - 🌍 Based in London · Italian 🇮🇹 Dutch 🇳🇱
