@@ -2,5 +2,3 @@
 - 🏗️ Building AI tools for London Business School
 - 🎓 MSc Analytics & Management, London Business School (2026), Recipient of Student of the Year Award
 - 🌍 Based in London · Italian 🇮🇹 Dutch 🇳🇱
-
-*Slow is smooth, and smooth is fast.*
